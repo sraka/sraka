@@ -11,6 +11,7 @@
 ###
 
 <p align="left">✨ Writing code since 2014 <br>
+  Industry : VFX, Animation, Media & Entertainment, AR, VR
   📚 I'm currently learning AI,ML <br>
   🎯 Goals: create <br>
   🎲 Fun fact: ...</p>
