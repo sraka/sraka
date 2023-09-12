@@ -1,4 +1,5 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hi 👋 I am Akash Srivastava</h1>
+<h3 align="center">A VFX and CG software developer</h3>
 
 ###
 
@@ -38,10 +39,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sraka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sraka&show_icons=true&locale=en" alt="sraka" /></p>
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sraka&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sraka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-
+###
 
 
 
