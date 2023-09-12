@@ -38,7 +38,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sraka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sraka&show_icons=true&locale=en" alt="sraka" /></p>
 
 
 
