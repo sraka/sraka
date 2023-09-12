@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋 I am Akash Srivastava</h1>
+<h1 align="center">Hi 👋 I am Akash Srivastava</h1>
 <h3 align="center">A VFX and CG software developer</h3>
 
 ###
